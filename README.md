@@ -3,7 +3,7 @@
 
 ![Dark Banner](./dark.svg#gh-dark-mode-only)  
 
-![Light Banner](https://res.cloudinary.com/misertoy/image/upload/v1676731319/light_brbgip.svg#gh-light-mode-only)  
+![Light Banner](./light.svg#gh-light-mode-only)  
 
 # Hey there, I'm Shaul!  
 
