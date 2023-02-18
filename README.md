@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Dark Banner](https://res.cloudinary.com/misertoy/image/upload/v1676731319/dark_n5tcff.svg#gh-dark-mode-only)  
+![Dark Banner](./dark.svg#gh-dark-mode-only)  
 
 ![Light Banner](https://res.cloudinary.com/misertoy/image/upload/v1676731319/light_brbgip.svg#gh-light-mode-only)  
 
