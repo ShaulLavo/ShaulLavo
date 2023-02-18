@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-
+![Dark Banner](./dark.svg#gh-light-mode-only)  
 
 ![Light Banner](./light.svg#gh-light-mode-only)  
 
